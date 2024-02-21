@@ -1,0 +1,44 @@
+.option-wrapper {
+  width: 95%;
+  margin: 1%;
+}
+
+input {
+  width: 50%;
+}
+
+.card {
+  padding: 10px;
+}
+
+.option-wrapper input {
+  width: 100%;
+}
+
+.card p {
+  font-weight: bold;
+}
+
+.card>input {
+  width: 95%;
+  margin-left: 8px;
+}
+
+.card>label {
+  margin-left: 10px;
+}
+
+.btn-secondary {
+  margin-bottom: 10px;
+  width: 95%;
+  margin-left: 8px
+}
+
+#EDIT,
+#UPDATE {
+  margin-top: 10px;
+  /* width: 20%;
+  margin: auto;
+  font-size: 1.2rem;
+  font-weight: bolder; */
+}
